@@ -4,6 +4,8 @@ Writes the locked entry line to <output>/entry.txt, where <output> comes
 from MAKEFUN_OUTPUT_DIR with /output as the fallback. No trailing newline.
 
 Verified numbers: 96 chars / 96 bytes, one line.
+entry.txt sha256 (5 fresh runs + clean-env run, all identical):
+1b3083dfbafe6e09c0a16848acd86cdadb0fe83959bf568eaabfd85ca68d2473
 """
 
 import os
